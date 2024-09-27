@@ -4,7 +4,7 @@
 🔭 I’m looking to work as a game developer  
 🌱 I’m currently focusing on game development in Unity  
 ⚡ Fun fact: I can binge-watch an entire anime series in one sitting and still have energy left to code for 12 hours straight! :3  
-💫 I can work with C, C++, C#, Java, JavaFX, SQL, MongoDB, XML, HTML, CSS, Python, JavaScript, PHP, Laravel, ReactJS, NodeJS, Express.js, and more.
+💫 I can work with C, C++, C#, Java, JavaFX, SQL, PL/SQL, MongoDB, XML, HTML, CSS, Python, JavaScript, PHP, Laravel, ReactJS, NodeJS, Express.js, and more.
 
 📫 **How to reach me:**
 - **Email:** [ak99.abirkhan@gmail.com](mailto:ak99.abirkhan@gmail.com)
