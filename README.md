@@ -50,7 +50,11 @@
 **Cloud & Hosting:**
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white) 
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0000FF?style=flat&logo=cloudinary&logoColor=white) 
+
+
+
 
 **Tools & Software:**
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
