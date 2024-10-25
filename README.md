@@ -74,10 +74,10 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 📊 **GitHub Stats:**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abirkhan-zero&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abirhasankhan&show_icons=true&theme=radical)
 
 🏆 **GitHub Trophies:**
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=abirkhan-zero&theme=onedark)
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=abirhasankhan&theme=onedark)
 
 ✍️ **Random Dev Quote:**
 <p align="center">
