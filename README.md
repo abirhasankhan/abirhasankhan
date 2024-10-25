@@ -8,12 +8,12 @@
 
 📫 **How to reach me:**
 - **Email:** [ak99.abirkhan@gmail.com](mailto:ak99.abirkhan@gmail.com)
-- **LinkedIn:** [Abir Khan](https://www.linkedin.com/in/abirkhan-zero/)
+- **LinkedIn:** [Abir Khan](https://www.linkedin.com/in/mdabirhasankhan/)
 
 🌐 **Socials:**  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/aceares.zero/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/aceares.zero/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abirkhan-zero/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdabirhasankhan/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/userid) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/user/userid)
 
