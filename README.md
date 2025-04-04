@@ -34,7 +34,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-%236B21A8.svg?style=flat&logo=tailwindcss&logoColor=white)
+![ShadCN/UI](https://img.shields.io/badge/ShadCN/UI-%2318171B.svg?style=flat&logo=vercel&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white)
+
 
 **Backend Development:**
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
