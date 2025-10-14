@@ -238,4 +238,4 @@
 
 </div>
 
-![Footer](https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg)
+![Footer](https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg)
