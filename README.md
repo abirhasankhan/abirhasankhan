@@ -220,7 +220,7 @@
 | 𝕰𝖒𝖆𝖎𝖑 𝕯𝖗𝖆𝖌𝖔𝖓         | [ak99.abirkhan@gmail.com](mailto:ak99.abirkhan@gmail.com)               |
 | 𝕷𝖎𝖓𝖐𝖊𝖉𝕴𝖓 𝕻𝖔𝖗𝖙𝖆𝖑     | [Abir's Profile](https://linkedin.com/in/mdabirhasankhan)               |
 | 𝕲𝖎𝖙𝖍𝖚𝖇 𝕮𝖆𝖘𝖙𝖑𝖊       | [@abirhasankhan](https://github.com/abirhasankhan)                      |
-| 🌐 𝖂𝖊𝖇𝖘𝖎𝖙𝖊 𝕻𝖔𝖗𝖙𝖆𝖑     | [abirhasankhan.github.io/portfolio](https://abirhasankhan.github.io/portfolio/) |
+| 🌐 𝖂𝖊𝖇𝖘𝖎𝖙𝖊 𝕻𝖔𝖗𝖙𝖆𝖑     | [abirhasankhan.github.io](https://abirhasankhan.github.io/) |
 
 
 
